@@ -1,24 +1,24 @@
-##Concept:
+## Concept:
 
  Play as a triangle following the mouses movement to avoid the squares for as long as possible
   
-##Genre:
+## Genre:
   
 Avoidance game
    
-##Platform:
+## Platform:
 
 Desktop browser
     
-##Story:
+## Story:
 
 You are trying to escape the squares
 
-##Esthetics
+## Esthetics
 
 Simple shapes/colors with 8-bit music
 
-##Gameplay:
+## Gameplay:
 
 The player uses the mouse to movethe triangle around and earns points for how long they survive.
 The player is taught the controls from the title screen.
